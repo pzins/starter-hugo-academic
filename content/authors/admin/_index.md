@@ -79,4 +79,4 @@ My general areas of interest are computer vision and deep learning. My research 
 
 Before starting my PhD, I have worked for 1 year at Wrnch, as a computer vision engineer. In 2018 I graduated from Polytechnique Montréal (Master of Applied Science in Computer Science) and Université de Technologie de Compiègne (French Engineer degree in Computer Science). I did my Master Thesis at the Distributed Open Reliable Systems Analysis Lab from Polytechnique and work on performance analysis for machine learning dataflow applications executing in heterogeneous environments. I have also spent 6 months as an exchange student at Technische Universität Graz in Austria.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume_en.pdf" "newtab" >}}resume{{< /staticref >}}.
