@@ -11,7 +11,7 @@ role: PhD Student in Computer Vision - 3D/4D
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Inria Grenoble - Rhône-Alpes
-  url: https://www.stanford.edu/
+  url: https://www.inria.fr/fr/centre-inria-grenoble-rhone-alpes
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
