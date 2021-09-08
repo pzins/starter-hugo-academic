@@ -33,7 +33,7 @@ abstract: In this paper, we propose a profiling and tracing method for dataflow 
 
 
 # Summary. An optional shortened abstract.
-summary: <b style="font-size:120%;color:#008080">International Journal of Parallel Programming</b></b><br> Profiling and tracing method for dataflow machine learning applications with GPU acceleration.
+summary: <b style="font-size:120%;color:#008080">International Journal of Parallel Programming</b></b><br> Profiling and tracing methods for dataflow machine learning applications with GPU acceleration.
 tags: 
 - Performance Analysis
 - Tracing

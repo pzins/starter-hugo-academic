@@ -20,8 +20,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Computer Vision
 - 3D / 4D reconstruction
-- Computer Graphics
 - Deep Learning
+- Computer Graphics
 - Algorithms
 
 # Education to show in About widget
@@ -50,7 +50,7 @@ social:
 #   link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=C4jpnq4AAAAJ&hl=fr&oi=ao
 - icon: github
   icon_pack: fab
   link: https://github.com/pzins
@@ -71,12 +71,12 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am a PhD student in the Morpheo team at Inria Grenoble Rhône-Alpes. 
-My thesis is part of a collaboration between Facebook Reality Labs (former Oculus Research) in San Francisco, USA and Morpheo team.
-I am supervised by Stefanie Wuhrer and Edmond Boyer (Inria Morpheo) and Tony Tung (Facebook Reality Labs).
+I am a PhD student in the [Morpheo](https://team.inria.fr/morpheo/) team at [Inria Grenoble Rhône-Alpes](https://www.inria.fr/fr/centre-inria-grenoble-rhone-alpes).
+My thesis is part of a collaboration between [Facebook Reality Labs](https://tech.fb.com/ar-vr/) in San Francisco and [Inria](https://www.inria.fr/en) .
+I am supervised by [Stefanie Wuhrer](http://morpheo.inrialpes.fr/~wuhrer/) and [Edmond Boyer](http://morpheo.inrialpes.fr/people/Boyer/) ([Inria](https://www.inria.fr/en) [Morpheo](https://team.inria.fr/morpheo/)) and [Tony Tung](https://sites.google.com/site/tony2ng/) ([Facebook Reality Labs](https://tech.fb.com/ar-vr/)).
 
-My general areas of interest are computer vision and deep learning. My research focuses on 3D/4D modeling of dressed humans.
+My general areas of interest are computer vision and deep learning. My research focuses on 3D/4D modeling of dressed humans from images/videos.
 
-Before starting my PhD, I have worked for 1 year at Wrnch, as a computer vision engineer. In 2018 I graduated from Polytechnique Montréal (Master of Applied Science in Computer Science) and Université de Technologie de Compiègne (French Engineer degree in Computer Science). I did my Master Thesis at the Distributed Open Reliable Systems Analysis Lab from Polytechnique and work on performance analysis for machine learning dataflow applications executing in heterogeneous environments. I have also spent 6 months as an exchange student at Technische Universität Graz in Austria.
+Before starting my PhD, I have worked for 1 year at [Wrnch](https://wrnch.ai/), as a computer vision engineer. In 2018 I graduated from [Polytechnique Montréal](https://www.polymtl.ca/) (Master of Applied Science in Computer Science) and [Université de Technologie de Compiègne](https://www.utc.fr/) (French Engineer degree in Computer Science). I did my Master Thesis at the [Distributed Open Reliable Systems Analysis Lab](https://www.dorsal.polymtl.ca/fr/) from [Polytechnique](https://www.polymtl.ca/) and work on performance analysis of machine learning dataflow applications executing in heterogeneous environments. I have also spent 6 months as an exchange student at [Technische Universität Graz](https://www.tugraz.at/home/) in Austria.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume_en.pdf" "newtab" >}}resume{{< /staticref >}}.

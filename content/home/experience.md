@@ -29,7 +29,7 @@ experience:
     location: Grenoble, France
     date_start: '2019-10-01'
     date_end: '2022-10-01'
-    description: I am working on 3D/4D reconstruction of dressed humans.
+    description: I am working on 3D/4D modeling of dressed humans from images/videos.
         
   - title: Computer Vision Engineer
     company: Wrnch
@@ -38,7 +38,7 @@ experience:
     location: Montreal, Canada
     date_start: '2018-10-01'
     date_end: '2019-05-01'
-    description: I worked on several computer vision applications that use human pose estimation and on multi-cameras for 3D markerless motion capture (multi cameras calibration, video feed synchronization, 3D estimation from several 2D poses).
+    description: I worked on several computer vision applications that use human pose estimation and on a multi-camera platform for 3D markerless motion capture (multi cameras calibration, video feed synchronization, 3D estimation from several 2D poses).
   
   - title: Master Thesis
     company: DORSAL Polytechnique Montreal
@@ -53,10 +53,15 @@ experience:
     company: Aspic Technologies
     company_url: 'https://www.aspictechnologies.com/'
     company_logo: 
-    location: Montreal, Canada
-    date_start: '2017-01-01'
-    date_end: '2018-08-01'
-    description: I developped performance analysis tools for machine learning dataflow applications executing in heterogeneous environments. I focused on the library TensorFlow and its dataflow computation graph. The goal was to develop tools which will help to understand the performance of the applications and to detect limiting elements or bottlenecks. A main aspect was to insure that the available hardware (CPUs and GPUs) is used efficiently.
+    location: Tourcoing, France
+    date_start: '2015-09-01'
+    date_end: '2016-02-01'
+    description: |2-
+        I worked on different projects:
+        * Continuous Integration System  Buildbot, Docker, Wakeonlan, scripts Bash.
+        * C++ Dévelopment for a license system  C++, CMake, Boost, XML, Client-Server.
+        * Smart C++ tools for memory allocations tagging and monitoring.
+    
 design:
   columns: '2'
 ---
