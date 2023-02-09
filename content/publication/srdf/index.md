@@ -1,5 +1,5 @@
 ---
-title: "Data-Driven 3D Reconstruction of Dressed Humans From Sparse Views"
+title: "Multi-View Reconstruction using Signed Ray Distance Functions (SRDF)"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -16,26 +16,27 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2021-12-01T00:00:00Z"
+date: "2022-08-31T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-12-01T00:00:00Z"
+publishDate: "2022-08-31T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 # publication: In *Wowchemy Conference*
 # publication_short: In *ICW*
 
-abstract: Recently, data-driven single-view reconstruction methods have shown great progress in modeling 3D dressed humans. However, such methods suffer heavily from depth ambiguities and occlusions inherent to single view inputs. In this paper, we address such issues by lifting the single-view input with additional views and investigate the best strategy to suitably exploit information from multiple views. We propose an end-to-end approach that learns an implicit 3D representation of dressed humans from sparse camera views. Specifically, we introduce two key components; first an attention-based fusion layer that learns to aggregate visual information from several viewpoints; second a mechanism that encodes local 3D patterns under the multi-view context. In the experiments, we show the proposed approach outperforms the state of the art on standard data both quantitatively and qualitatively. Additionally, we apply our method on real data acquired with a multi-camera platform and demonstrate our approach can obtain results comparable to multi-view stereo with dramatically less views
+abstract: In this paper, we address the problem of multi-view 3D shape reconstruction. While recent differentiable rendering approaches associated to implicit shape representations have provided breakthrough performance, they are still computationally heavy and often lack precision on the estimated geometries. To overcome these limitations we investigate a new computational approach that builds on a novel shape representation that is volumetric, as in recent differentiable rendering approaches, but parameterized with depth maps to better materialize the shape surface. The shape energy associated to this representation evaluates 3D geometry given color images and does not need appearance prediction but still benefits from volumetric integration when optimized. In practice we propose an implicit shape representation, the SRDF, based on signed distances which we parameterize by depths along camera rays. The associated shape energy considers the agreement between depth prediction consistency and photometric consistency, this at 3D locations within the volumetric representation. Various photo-consistency priors can be accounted for such as a median based baseline, or a more elaborated criterion as with a learned function. The approach retains pixel-accuracy with depth maps and is parallelizable. Our experiments over standard datasets shows that it provides state-of-the-art results with respect to recent approaches with implicit shape representations as well as with respect to traditional multi-view stereo methods.
+
 
 # Summary. An optional shortened abstract.
-summary: <b style="font-size:120%;color:#008080">3DV 2021</b></b><br> Data-driven spatially consistent 3D reconstruction of dressed Humans from a few sparse views.
+summary: <b style="font-size:120%;color:#008080">ArXiv</b></b><br> Multi-View Reconstruction using Signed Ray Distance Functions (SRDF).
 tags: []
 
 # Display this page in the Featured widget?
@@ -44,23 +45,23 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: ArXiv
-  url: https://arxiv.org/abs/2104.08013
+  url: https://arxiv.org/pdf/2209.00082.pdf
 - name: HAL
-  url: https://hal.science/hal-03385107/
+  url: https://hal.science/hal-03766943/
 
 # url_pdf: ''
-url_code: 'https://github.com/pzins/Data-Driven-3D-Reconstruction-of-Dressed-Humans-from-Sparse-Views'
+# url_code: ''
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
 # url_slides: ''
 # url_source: ''
-url_video: 'https://slideslive.com/38972301/datadriven-3d-reconstruction-of-dressed-humans-from-sparse-views?ref=account-96722-presentations'
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Data-Driven 3D Reconstruction of Dressed Humans From Sparse Views.'
+  caption: 'Multi-View Reconstruction using Signed Ray Distance Functions (SRDF).'
   focal_point: ""
   preview_only: false
 

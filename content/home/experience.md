@@ -28,9 +28,14 @@ experience:
     company_logo:
     location: Grenoble, France
     date_start: '2019-10-01'
-    date_end: '2022-10-01'
-    description: I am working on 3D/4D modeling of dressed humans from images/videos.
-        
+    date_end: '2023-04-25'
+    description: |2-
+      During my thesis, I have been working on 3D shape reconstruction from images. In particular, our work is divided along three axes:
+      * 3D reconstruction of dressed humans from a few sparse views by leveraging a neural implicit representation and attention mechanisms.
+      * 3D reconstruction of shapes from multiple views using an SRDF (Signed Ray Distance Functions) representation.
+      * Improved implicit shape modeling from a few views by using multi-view constraints.
+
+
   - title: Computer Vision Engineer
     company: Wrnch
     company_url: 'https://wrnch.ai/'
