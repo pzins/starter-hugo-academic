@@ -75,7 +75,11 @@ I am a PhD student in the [Morpheo](https://team.inria.fr/morpheo/) team at [Inr
 My thesis is part of a collaboration between [Meta Reality Labs](https://tech.fb.com/ar-vr/) in San Francisco and [Inria](https://www.inria.fr/en) .
 I am supervised by [Stefanie Wuhrer](http://morpheo.inrialpes.fr/~wuhrer/) and [Edmond Boyer](http://morpheo.inrialpes.fr/people/Boyer/) ([Inria](https://www.inria.fr/en) [Morpheo](https://team.inria.fr/morpheo/)) and [Tony Tung](https://sites.google.com/site/tony2ng/) ([Meta Reality Labs](https://tech.fb.com/ar-vr/)).
 
-My general areas of interest are computer vision and deep learning. My research focuses on 3D shape reconstruction from images.
+My research focuses on 3D shape reconstruction from images and is divided along three axes:
+* 3D reconstruction of dressed humans from a few sparse views by leveraging a neural implicit representation and attention mechanisms.
+* 3D reconstruction of shapes from multiple views using an SRDF (Signed Ray Distance Functions) representation.
+* Improved implicit shape modeling from a few views by using multi-view constraints
+
 
 Before starting my PhD, I have worked for 1 year at [Wrnch](https://wrnch.ai/), as a computer vision engineer. In 2018 I graduated from [Polytechnique Montréal](https://www.polymtl.ca/) (Master of Applied Science in Computer Science) and [Université de Technologie de Compiègne](https://www.utc.fr/) (French Engineer degree in Computer Science). I did my Master Thesis at the [Distributed Open Reliable Systems Analysis Lab](https://www.dorsal.polymtl.ca/fr/) from [Polytechnique](https://www.polymtl.ca/) and work on performance analysis of machine learning dataflow applications executing in heterogeneous environments. I have also spent 6 months as an exchange student at [Technische Universität Graz](https://www.tugraz.at/home/) in Austria.
 
