@@ -16,11 +16,11 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2022-08-31T00:00:00Z"
+date: "2023-04-25T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-08-31T00:00:00Z"
+publishDate: "2023-04-25T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -36,7 +36,7 @@ abstract: In this paper, we address the problem of multi-view 3D shape reconstru
 
 
 # Summary. An optional shortened abstract.
-summary: <b style="font-size:120%;color:#008080">ArXiv</b></b><br> Multi-View Reconstruction using Signed Ray Distance Functions (SRDF).
+summary: <b style="font-size:120%;color:#008080">CVPR 2023</b></b><br> Multi-View Reconstruction using Signed Ray Distance Functions (SRDF).
 tags: []
 
 # Display this page in the Featured widget?

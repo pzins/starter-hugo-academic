@@ -6,7 +6,7 @@ title: Pierre Zins
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in Computer Vision
+role: Computer Vision / Deep Learning Research Engineer (PhD)
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -20,6 +20,7 @@ organizations:
 interests:
 - Computer Vision
 - 3D reconstruction
+- Multi-View Geometry
 - Deep Learning
 - Computer Graphics
 - Algorithms
@@ -27,15 +28,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Computer Vision (in progress)
+  - course: PhD in Computer Vision
     institution: Inria / Université Grenoble Alpes
-    year: 2019
+    year: 2019-2023
   - course: MSc in Computer Science
     institution: Polytechnique Montréal
-    year: 2018
+    year: 2017-2018
   - course: Engineer degree in Computer Science
     institution: Université de Technologie de Compiègne
-    year: 2018
+    year: 2012-2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -57,6 +58,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/zinspierre/
+- icon: gitlab
+  icon_pack: fab
+  link: https://gitlab.inria.fr/pzins
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -71,11 +75,14 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am a PhD student in the [Morpheo](https://team.inria.fr/morpheo/) team at [Inria Grenoble Rhône-Alpes](https://www.inria.fr/fr/centre-inria-grenoble-rhone-alpes).
-My thesis is part of a collaboration between [Meta Reality Labs](https://tech.fb.com/ar-vr/) in San Francisco and [Inria](https://www.inria.fr/en) .
-I am supervised by [Stefanie Wuhrer](http://morpheo.inrialpes.fr/~wuhrer/) and [Edmond Boyer](http://morpheo.inrialpes.fr/people/Boyer/) ([Inria](https://www.inria.fr/en) [Morpheo](https://team.inria.fr/morpheo/)) and [Tony Tung](https://sites.google.com/site/tony2ng/) ([Meta Reality Labs](https://tech.fb.com/ar-vr/)).
 
-My research focuses on 3D shape reconstruction from images and is divided along three axes:
+I am a Computer Vision Research Engineer. In 2023 I received my PhD from University Grenoble Alpes for my work on "3D shape reconstruction from multiple views". My work has been published in top international conferences (3DV and CVPR).
+
+As PhD student I worked in the [Morpheo](https://team.inria.fr/morpheo/) team at [Inria Grenoble Rhône-Alpes](https://www.inria.fr/fr/centre-inria-grenoble-rhone-alpes).
+My thesis was part of a collaboration between [Meta Reality Labs](https://tech.fb.com/ar-vr/) in San Francisco and [Inria](https://www.inria.fr/en) .
+I was supervised by [Stefanie Wuhrer](http://morpheo.inrialpes.fr/~wuhrer/) and [Edmond Boyer](http://morpheo.inrialpes.fr/people/Boyer/) ([Inria](https://www.inria.fr/en) [Morpheo](https://team.inria.fr/morpheo/)) and [Tony Tung](https://sites.google.com/site/tony2ng/) ([Meta Reality Labs](https://tech.fb.com/ar-vr/)).
+
+My research focused on 3D shape reconstruction from images and was divided along three axes:
 * 3D reconstruction of dressed humans from a few sparse views by leveraging a neural implicit representation and attention mechanisms.
 * 3D reconstruction of shapes from multiple views using an SRDF (Signed Ray Distance Functions) representation.
 * Improved implicit shape modeling from a few views by using multi-view constraints
